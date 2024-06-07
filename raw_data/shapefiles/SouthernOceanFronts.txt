@@ -1,0 +1,22 @@
+Position of oceanic fronts in the Southern Ocean
+
+The subsurface Southern Ocean is characterized by relatively uniform zones separated by zonal fronts. Climatological position of the major fronts were estimated from observed temperature and salinity data.
+
+Alejandro H. Orsi, Thomas Whitworth III, and Worth D. Nowlin Jr (1995), On the meridional extent and fronts of the Antarctic Circumpolar Current., Deep-Sea Research, 42, 5, 641-673
+
+http://www.sciencedirect.com/science/article/pii/096706379500021W
+https://data.aad.gov.au/metadata/records/southern_ocean_fronts
+https://gcmd.nasa.gov/records/AADC_southern_ocean_fronts.html
+
+Downloaded
+19 July 2017
+Downloaded SHP file from https://data.aad.gov.au/metadata/records/southern_ocean_fronts
+
+Editor
+Oceanography
+Katsuro Katsumata
+k.katsumata@jamstec.go.jp
+
+Author
+Alejandro Orsi
+aorsi@tamu.edu
